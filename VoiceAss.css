@@ -1,0 +1,22 @@
+body{
+
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 5%, rgba(0,212,255,1) 100%);
+}
+
+button{
+
+	text-align: center;
+	margin-right: auto;
+    background-image: linear-gradient(to left,#FFC312,#EE5A24,#FFC312);
+    padding: 0.9em;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Poppins' , sans-serif;
+    cursor: pointer;
+    margin-left: 745px;
+    margin-top: 340px;
+    width: 135px;
+    height: 65px;
+
